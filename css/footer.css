@@ -1,0 +1,39 @@
+.rodape {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    
+}
+
+.contatos {
+    display: flex;
+    gap: 20rem;
+}
+
+.contatos li {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    gap: 2px;
+}
+
+.contatos a {
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    font-size: 1.4rem;
+}
+
+.icon {
+    width: 40px;
+    border-radius: 3px;
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}

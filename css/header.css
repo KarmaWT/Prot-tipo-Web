@@ -1,0 +1,15 @@
+header{
+    height: 20rem;
+    display: flex;
+    flex-direction: column;
+    margin: .12rem 12rem;
+    align-items: center;
+    justify-content: center;
+    background-color: #8FC1E3;
+    border-radius: 15px;
+}
+
+header h2 p{
+    padding: 20px;
+    text-align: justify;
+}
