@@ -4,4 +4,11 @@
     background-repeat: no-repeat;
     background-position:center;
     background-size: cover;
+    padding-left: 200px;
+}
+
+.servicos-conteudo {
+background-color: rgb(255, 255, 255, 0.8);
+border-radius: 8px;
+max-width: 20%;
 }

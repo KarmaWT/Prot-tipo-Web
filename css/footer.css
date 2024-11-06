@@ -28,9 +28,10 @@
 
 .icon {
     width: 40px;
-    border-radius: 3px;
+    height: 40px;
+    object-fit: cover;
+    border-radius: 20px;
 }
-
 
 .container {
     display: flex;
