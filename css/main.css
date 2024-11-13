@@ -1,14 +1,24 @@
-.servicos{
-    height: 500px;
-    background-image: url('https://acadtec.com.br/storage/posts/pictures/ntVKoNURQUQhP9ghaf06607dcbf590338.jpg');
+.servicos {
+   
+    display: grid;
+    grid-template-columns:  1fr 2fr;
+    padding: 1.3rem;
+    margin-bottom: 2rem;
+}
+
+.bg-image{
+    background-image: url('https://arquivo.devmedia.com.br/marketing/img/artigo-introducao-a-programacao-estruturada-24951.png');
     background-repeat: no-repeat;
-    background-position:center;
+    background-position:right;
     background-size: cover;
-    padding-left: 200px;
+    border-radius: 8px;
 }
 
 .servicos-conteudo {
-background-color: rgb(255, 255, 255, 0.8);
-border-radius: 8px;
-max-width: 20%;
+    background-color: rgb(255, 255, 255, 0.8);
+    border-radius: 8px;
+    margin: 1.4rem;
+    padding: 0rem 1.2rem;
+    width: 100%;
+    background-color: #F7F9FB;
 }

@@ -2,7 +2,7 @@ header{
     height: 20rem;
     display: flex;
     flex-direction: column;
-    margin: .0rem 0rem;
+    padding: 3rem;
     align-items: center;
     justify-content: center;
     background-color: #8FC1E3;
